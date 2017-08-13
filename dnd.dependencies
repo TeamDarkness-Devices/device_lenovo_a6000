@@ -2,6 +2,7 @@
   {
     "repository": "dev-harsh1998/android_device_lenovo_msm8916-common",
     "target_path": "device/lenovo/msm8916-common"
+    "branch": "cm-14.1"
   },
   {
     "repository": "TeamDarkness-Devices/proprietary-vendor_lenovo",
@@ -27,5 +28,5 @@
     "repository": "LineageOS/android_external_stlport",
     "target_path": "external/stlport"
     "branch": "cm-14.1" 
- }
+  }
 ]
