@@ -1,0 +1,31 @@
+[
+  {
+    "repository": "dev-harsh1998/android_device_lenovo_msm8916-common",
+    "target_path": "device/lenovo/msm8916-common"
+  },
+  {
+    "repository": "TeamDarkness-Devices/proprietary-vendor_lenovo",
+    "target_path": "vendor/lenovo",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "HassanSardar/kernel_lenovo_msm8916",
+    "target_path": "kernel/lenovo/a6000",
+    "branch": "n7x"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat"
+    "branch": "cm-14.1" 
+  },
+  {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport"
+    "branch": "cm-14.1" 
+ }
+]
